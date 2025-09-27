@@ -1,4 +1,4 @@
-# AI_Market_Impulse
+# AI_Market_Pulse
 ## Project Overview 
 Analyzing data from **Google, Meta and OpenAI (2015 to 2024)**, to track **Innovation, Revenue, and Impact** in the field of Artificial Intelligence. 
 
@@ -27,10 +27,11 @@ Close to five years ago, I believed that *"Technology might be taking over the w
 - [Process](#process)
 - [Key Findings](#key-findings)
 - [Dashboard Visualizations](#dashboard-visualizations)
-- [What This Means for Humanity](#what-this-means-for-humanity)
+- [Interpretation & Sociological Perspective](#interpretation--sociological-perspective)
 - [Limitations](#limitations)
 - [Impact & Use](#impact--use)
 - [Credits](#credits)
+- [Other Links](#other-links)
 
 ## Key Findings
 - **Total AI Revenue:** $483,583 million across the three companies
@@ -48,11 +49,32 @@ Close to five years ago, I believed that *"Technology might be taking over the w
 6. **Horizontal Bar Chart (Event Impact on Stock):** OpenAI's events have the biggest impact (0.041) on the market, despite the company's lower spending and revenue.
 
 *Screenshot of dashboard*
-![AI_Market_Impulse](
+![AI_Market_Pulse](https://github.com/NaaAkweleyMarley/AI_Market_Impulse/blob/main/AI%20Market%20Impulse_Dashboard%20Screenshot.png?raw=true)
 
-## What This Means for Humanity
+## Interpretation & Sociological Perspective
+### What This Means for Humanity
+These findings highlight AI as one of the **fastest-growing sectors in technology**. AI Adoption is still in it early stages and the potential for market expansion is vast. 
+From a Sociological perspective, AI functioning mirrors the Concept of SOcial Integration whereby a new system introduced into a society helps people connect better and meet shared needs.
+Just as electricity revolutionized human life and daily processes despite initial skepticism, AI today is the **new kind of electricity**. From helping farmers predict weather and protect crops, to allowing ordinary people to solve complex problems faster than ever, AI is not a robot that replaces us, but rather a tool which facilitates human advancement by amplifying our performance.
+
+*Picture showing*
+![AI Market Pulse_
+
 ## Limitations
+- Dataset limited to three companies
+- Excel visualizations restrict interactivity compared to BI tools
+- Focused primarily on financial and event data, not data on ethics
 
 ## Impact & Use
+The project portrays AI as a driver of transformative change. Similar to *electricity* and *fire*, AI is a powerful tool whose true value can only be reaized if human beings approach it with wisdom, responsibility and vision. Far from replacing humans, AI supports innovation across industries.
+
+*Picture showing*
+![AI Market Pulse_
 
 ## Credits
+- Data sourced from 
+- Visualization and data analysis completed in **Microsoft Excel**.
+- Inspiration drawn from Sociology concepts and the ongoing debate on technology's role in society.
+
+## Other Links
+Further breakdown of the analysis with visuals is in my article: [Bridging Sociology and Data Analytics: What My Artificial Intelligence Dashboard Reveals About Technology and Humanity](https://lnkd.in/e22_kmap)
