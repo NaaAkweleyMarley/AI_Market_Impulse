@@ -57,9 +57,6 @@ These findings highlight AI as one of the **fastest-growing sectors in technolog
 From a Sociological perspective, AI functioning mirrors the Concept of SOcial Integration whereby a new system introduced into a society helps people connect better and meet shared needs.
 Just as electricity revolutionized human life and daily processes despite initial skepticism, AI today is the **new kind of electricity**. From helping farmers predict weather and protect crops, to allowing ordinary people to solve complex problems faster than ever, AI is not a robot that replaces us, but rather a tool which facilitates human advancement by amplifying our performance.
 
-*Picture showing Tech and Human Collaboration*
-![AI Market Pulse_Tech and Human Collaboration](https://github.com/NaaAkweleyMarley/AI_Market_Impulse/blob/main/AI%20Market%20Pulse_Picture%20Showing%20Tech%20and%20Human%20Collaboration.jpg?raw=true)
-
 ## Limitations
 - Dataset limited to three companies
 - Excel visualizations restrict interactivity compared to BI tools
@@ -68,15 +65,10 @@ Just as electricity revolutionized human life and daily processes despite initia
 ## Impact & Use
 The project portrays AI as a driver of transformative change. Similar to *electricity* and *fire*, AI is a powerful tool whose true value can only be reaized if human beings approach it with wisdom, responsibility and vision. Far from replacing humans, AI supports innovation across industries.
 
-*Picture showing AI's Amplification of Human Performance*
-![AI Market Pulse_Amplification of Performance](https://github.com/NaaAkweleyMarley/AI_Market_Impulse/blob/main/AI%20Market%20Pulse_Picture%20Showing%20AI's%20Amplification%20of%20Human%20Performance.jpg?raw=true)
-
 ## Credits
 - Data sourced from Kaggle
 - Visualization and data analysis completed in **Microsoft Excel**.
 - Inspiration drawn from Sociology concepts and the ongoing debate on technology's role in society.
-- Image 1 (Tech and Human Collaboration): 
-- Image 2 (AI's Amplification of Human Performance): [Pinterest Link](https://i.pinimg.com/1200x/5d/72/ba/5d72baee774c2c94bee23b970c0dc53e.jpg)
 
 ## Other Links
 Further breakdown of the analysis with visuals is in my article: [Bridging Sociology and Data Analytics: What My Artificial Intelligence Dashboard Reveals About Technology and Humanity](https://lnkd.in/e22_kmap)
