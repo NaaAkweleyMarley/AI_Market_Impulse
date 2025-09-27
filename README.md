@@ -2,6 +2,18 @@
 ## Project Overview 
 Analyzing data from **Google, Meta and OpenAI (2015 to 2024)**, to track **Innovation, Revenue, and Impact** in the field of Artificial Intelligence. 
 
+## Table of Contents
+- [Motivation](#motivation) 
+- [Technology Used](#technology-used)
+- [Process](#process)
+- [Key Findings](#key-findings)
+- [Dashboard Visualizations](#dashboard-visualizations)
+- [Interpretation & Sociological Perspective](#interpretation--sociological-perspective)
+- [Limitations](#limitations)
+- [Impact & Use](#impact--use)
+- [Credits](#credits)
+- [Other Links](#other-links)
+
 ## Motivation
 Close to five years ago, I believed that *"Technology might be taking over the world soon"*. The result of that belief, however, was an imagination of a world where robots turn against human beings. My entry into the tech space has nonetheless brought me to the realization of the collaborative relationship between technology and humanity. I have embarked on several technical projects such as this, whose findings have emphasized the role of technology as a driving force for transformative action, and not a substitution of human existence. This project explores the trajectory of Artificial Intelligence through data, and was designed and presented as my **Microsoft Excel Capstone Project** in week two of my Data Analytics training with **Blossom Academy**. 
 
@@ -20,18 +32,6 @@ Close to five years ago, I believed that *"Technology might be taking over the w
 ### Data Visualization and Analysis
 - Built KPIs (Total AI Revenue, Total Research and Development (R&D) Spending, Average AI Revenue Growth, Average Stock Impact, and Event Count).
 - Designed six charts to show AI Revenue Trend, R&D Spending Share, Stock Movements on Events, R&D vs Revenue, Growth Rates, and Event Impact on Stock.
-
-## Table of Contents
-- [Motivation](#motivation) 
-- [Technology Used](#technology-used)
-- [Process](#process)
-- [Key Findings](#key-findings)
-- [Dashboard Visualizations](#dashboard-visualizations)
-- [Interpretation & Sociological Perspective](#interpretation--sociological-perspective)
-- [Limitations](#limitations)
-- [Impact & Use](#impact--use)
-- [Credits](#credits)
-- [Other Links](#other-links)
 
 ## Key Findings
 - **Total AI Revenue:** $483,583 million across the three companies
