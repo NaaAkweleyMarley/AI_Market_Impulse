@@ -75,8 +75,8 @@ The project portrays AI as a driver of transformative change. Similar to *electr
 - Data sourced from Kaggle
 - Visualization and data analysis completed in **Microsoft Excel**.
 - Inspiration drawn from Sociology concepts and the ongoing debate on technology's role in society.
-- Image 1 (Tech and Human Collaboration): [Pinterest Link](
-- IMage 2 (AI's Amplification of Human Performance): [Pinterest Link](https://i.pinimg.com/1200x/5d/72/ba/5d72baee774c2c94bee23b970c0dc53e.jpg)
+- Image 1 (Tech and Human Collaboration): 
+- Image 2 (AI's Amplification of Human Performance): [Pinterest Link](https://i.pinimg.com/1200x/5d/72/ba/5d72baee774c2c94bee23b970c0dc53e.jpg)
 
 ## Other Links
 Further breakdown of the analysis with visuals is in my article: [Bridging Sociology and Data Analytics: What My Artificial Intelligence Dashboard Reveals About Technology and Humanity](https://lnkd.in/e22_kmap)
