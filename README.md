@@ -49,7 +49,7 @@ Close to five years ago, I believed that *"Technology might be taking over the w
 6. **Horizontal Bar Chart (Event Impact on Stock):** OpenAI's events have the biggest impact (0.041) on the market, despite the company's lower spending and revenue.
 
 *Screenshot of dashboard*
-![AI_Market_Pulse](https://github.com/NaaAkweleyMarley/AI_Market_Impulse/blob/main/AI%20Market%20Impulse_Dashboard%20Screenshot.png?raw=true)
+![AI_Market_Pulse_Dahboard Screenshot](https://github.com/NaaAkweleyMarley/AI_Market_Impulse/blob/main/AI%20Market%20Impulse_Dashboard%20Screenshot.png?raw=true)
 
 ## Interpretation & Sociological Perspective
 ### What This Means for Humanity
@@ -57,8 +57,8 @@ These findings highlight AI as one of the **fastest-growing sectors in technolog
 From a Sociological perspective, AI functioning mirrors the Concept of SOcial Integration whereby a new system introduced into a society helps people connect better and meet shared needs.
 Just as electricity revolutionized human life and daily processes despite initial skepticism, AI today is the **new kind of electricity**. From helping farmers predict weather and protect crops, to allowing ordinary people to solve complex problems faster than ever, AI is not a robot that replaces us, but rather a tool which facilitates human advancement by amplifying our performance.
 
-*Picture showing*
-![AI Market Pulse_
+*Picture showing Tech and Human Collaboration*
+![AI Market Pulse_Tech and Human Collaboration](
 
 ## Limitations
 - Dataset limited to three companies
@@ -68,8 +68,8 @@ Just as electricity revolutionized human life and daily processes despite initia
 ## Impact & Use
 The project portrays AI as a driver of transformative change. Similar to *electricity* and *fire*, AI is a powerful tool whose true value can only be reaized if human beings approach it with wisdom, responsibility and vision. Far from replacing humans, AI supports innovation across industries.
 
-*Picture showing*
-![AI Market Pulse_
+*Picture showing AI's Amplification of Human Performance*
+![AI Market Pulse_Amplification of Performance](
 
 ## Credits
 - Data sourced from 
